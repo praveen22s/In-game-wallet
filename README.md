@@ -1,5 +1,5 @@
-# Kraft Wallet — In-memory Backend (no DB)
-
+# In game Wallet — In-memory Backend (no DB)
+ 
 Quick demo & evaluation-ready implementation of the Wallet & Rewards backend using in-memory stores only 
 
 Features
