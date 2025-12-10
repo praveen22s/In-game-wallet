@@ -12,7 +12,7 @@ Run locally (recommended)
 
 This repository implements a small in-memory Wallet & Rewards backend (no database) that demonstrates atomic per-user updates, idempotent requests, and safe concurrency for top-ups and rewards.
 
-Quick run & test (copy-paste into PowerShell from the project root `D:\new intern project`):
+Quick run & test (copy-paste into PowerShell from the project root ):
 
 1) Install dependencies:
 
